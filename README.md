@@ -12,3 +12,6 @@ Includes initial dataset used in synthetic data generation.
 
 ## synthetic_data subdirectory
 Includes a csv and a Excel file showing synthetic data created with the TimeGAN framework.
+
+## metrics subdirectory
+Contains Pyhton code for discriminative and predictive networks used for generated data evaluation and the code for creating PCA and T-SNE plots.
